@@ -29,9 +29,9 @@ Isso exibirá uma lista de marcas disponíveis na API da Tabela FIPE. Insira o I
 
 # Executando os testes:
 
-Para executar os testes automatizados, siga os passos abaixo:
+# Para executar os testes automatizados, siga os passos abaixo:
 
-Navegue até o diretório onde os testes estão localizados.
+1. Navegue até o diretório onde os testes estão localizados:
 
 3. Execute o arquivo de teste:
 
